@@ -1,5 +1,5 @@
 # selenium-example
-An example project of selenium using ChromeWebDriver, HtmlUnitDriver, FirefoxFriver
+An example project of selenium using ChromeWebDriver, HtmlUnitDriver, FirefoxFriver, license
 
 
 ## Prerequisites ##
